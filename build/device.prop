@@ -1,0 +1,13 @@
+maintainer=
+customkernel=++Kernel
+name=Mi5S
+variant=Lite-Prime-Pro
+release=06232022
+releasewithbar=06/23/2022
+ToolchainName=Linaro
+romversion=MIUI
+androidversion=Nougat
+name1=Mi 5s
+name2=MI5S
+name3=capricorn
+name4=Capricorn
